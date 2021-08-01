@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dieterich.dev</title>
+    <link>Dieterich.dev/</link>
+    <description>Recent content on Dieterich.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="Dieterich.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garten Projekt</title>
+      <link>Dieterich.dev/portfolio/homeassistent/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>Dieterich.dev/portfolio/homeassistent/</guid>
+      <description>Mein Lanzeit Projekt, Die gartenbewässerung meines 3x2m gemüsegartens
+Idee Materieal Software </description>
+    </item>
+    
+    <item>
+      <title>Homeassistent</title>
+      <link>Dieterich.dev/portfolio/gartenbewaesserung/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>Dieterich.dev/portfolio/gartenbewaesserung/</guid>
+      <description>Smarthome Idee Mir ist es sehr wichtig das Alle meine smarthome Devices auch ohne Internet verbindung, im Locaken Netzt funktionieren.
+Materieal  Raspbarry_PI SD Karte  Software  Home-Assistant.io  </description>
+    </item>
+    
+    <item>
+      <title>Space Game</title>
+      <link>Dieterich.dev/portfolio/spacegame/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>Dieterich.dev/portfolio/spacegame/</guid>
+      <description>Idee Die Aufgabe war es ein 3D spiel mit OpenGL zu entwicklen
+Steuerung  W -&amp;gt; Vorwerts S -&amp;gt; Rückwerts D -&amp;gt; Drehen nach rechts A -&amp;gt; Drehen nach links Steuern und Ziehelen mit der maus Linke Maustaste -&amp;gt; Schießen R -&amp;gt; Radio an/aus BILD AUF/AB -&amp;gt; Nächster/Vorheriger Track ENTF -&amp;gt; Restart Escape -&amp;gt; Stoppen  Ziel Sammle ressourcen, werte dein Schiff an Stationen auf! Ressourcen sind in Asteroiden enthalten und können an den Stationen verkauft werden.</description>
+    </item>
+    
+    <item>
+      <title>Meine Erste Webseite</title>
+      <link>Dieterich.dev/blog/first-blog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>Dieterich.dev/blog/first-blog/</guid>
+      <description>Eine Übersicht über meine Skills, Fähigkeiten, Erfahrungen und Werdegang. (Recruiter Seiten sind nicht so mein Ding) Eine Portfolio Seite mit bescheibungen zu meinen Projekten für eine Bessere Übersicht Ein Blog  Wieso ein Blog? Gute Frage. Ich habe mir schon früh im Studium Überlegt ob ich vielleicht über das gelernte berichten möchte und wie ich das tun will. Zuerst dachte ich, &amp;ldquo;Hey, videos wären doch nicht schlecht&amp;rdquo;. Aber das ist echt ein großer aufwand und Technick Tutorials auf Youtube gibt es mehr als genug.</description>
+    </item>
+    
+  </channel>
+</rss>
