@@ -33,13 +33,13 @@ theme = "developer-portfolio"
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  #[[menu.main]]
-  #name = "Portfolio"
-  #URL = "portfolio"
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
   
-  #[[menu.main]]
-  #name = "Contact"
-  #URL = "contact"
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
 
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
