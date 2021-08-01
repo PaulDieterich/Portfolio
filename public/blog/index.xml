@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Dieterich.dev</title>
-    <link>Dieterich.dev/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on Dieterich.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="Dieterich.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meine Erste Webseite</title>
-      <link>Dieterich.dev/blog/first-blog/</link>
+      <link>/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
       
-      <guid>Dieterich.dev/blog/first-blog/</guid>
+      <guid>/blog/first-blog/</guid>
       <description>Eine Übersicht über meine Skills, Fähigkeiten, Erfahrungen und Werdegang. (Recruiter Seiten sind nicht so mein Ding) Eine Portfolio Seite mit bescheibungen zu meinen Projekten für eine Bessere Übersicht Ein Blog  Wieso ein Blog? Gute Frage. Ich habe mir schon früh im Studium Überlegt ob ich vielleicht über das gelernte berichten möchte und wie ich das tun will. Zuerst dachte ich, &amp;ldquo;Hey, videos wären doch nicht schlecht&amp;rdquo;. Aber das ist echt ein großer aufwand und Technick Tutorials auf Youtube gibt es mehr als genug.</description>
     </item>
     

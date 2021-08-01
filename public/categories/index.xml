@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dieterich.dev</title>
-    <link>Dieterich.dev/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Dieterich.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="Dieterich.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>game-dev</title>
-      <link>Dieterich.dev/categories/game-dev/</link>
+      <link>/categories/game-dev/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>Dieterich.dev/categories/game-dev/</guid>
+      <guid>/categories/game-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>homeassistent</title>
-      <link>Dieterich.dev/categories/homeassistent/</link>
+      <link>/categories/homeassistent/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>Dieterich.dev/categories/homeassistent/</guid>
+      <guid>/categories/homeassistent/</guid>
       <description></description>
     </item>
     
