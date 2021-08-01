@@ -1,0 +1,86 @@
+banner:
+  title: Moin Moin
+  social:
+  twitter: ""
+  linkedin: sam-robbins-gb
+  github: samrobbins85
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: samrobbinsgb
+
+about:
+  enable: true
+  content: Ich heiße Paul und studiere im 3. Jahr Medieninformatik an der Hochschule Osnabrück.
+  button:
+    btnText: Find out more
+    URL: "/about/"
+
+
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: logos/javascript.svg
+    - title: HTML
+      logo: logos/html.png
+    - title: CSS
+      logo: logos/css.svg
+    - title: Java
+      logo: logos/java.svg
+    - title: C++
+      logo: logos/c.svg
+    - title: Bash
+      logo: logos/bash.svg
+    - title: Powershell
+      logo: logos/powershell.svg
+    - title: MongoDB
+      logo: logos/mongodb.svg
+    - title: SQL
+      logo: logos/sql.svg
+    - title: Git
+      logo: logos/git.svg
+    - title: Nodejs
+      logo: logos/nodejs.svg
+    - title: Arduino
+      logo: logos/arduino.svg
+#portfolio:
+#  enable: true
+#  item:
+#    - title: Easy DMARC
+#      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+#      description: A website to make it easy to add DMARC to a Vercel website
+#      link: "/portfolio/easy-dmarc"
+#      tools:
+#        - next-dot-js
+#        - tailwindcss
+#        - vercel
+#        - react
+
+education:
+  enable: true
+  item:
+    - title: Fachabitur + Mathematisch Technischer Assistent
+      year: 2014 - 2018
+      academy: Schulzentrum UTBremen 
+      image: https://www.szut.de/cms/images/Logo-SZUT-gross.jpg
+    - title: Informatik – Medieninformatik (B.Sc.) Bachelor of Science
+      year: März 2019 - Jetzt
+      academy: Hochschule Osnabrück
+      image: https://www.zirkos.de/wp-content/uploads/2017/03/hochschule-osnabrueck.png
+      
+experience:
+  enable: true
+  item:
+    - logo: https://schul-support-service.de/media/s3logorgb50px.png
+      title: Studentische Hilfskraft 
+      company: Schul Support Service e.V. 
+      duration:  2021 - Jetzt
+
+
+
+
+filter:
+  - label: Web Dev
+    value: web-dev
+
