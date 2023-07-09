@@ -11,7 +11,8 @@ banner:
 
 about:
   enable: true
-  content: Ich heiße Paul und studiere im 3. Jahr Medieninformatik an der Hochschule Osnabrück.
+  content: Aktuell schreibe ich meine Bachelorarbeit im Bereich Software Architektur
+   
   button:
     btnText: Find out more
     URL: "/about/"
@@ -20,20 +21,14 @@ about:
 skill:
   enable: true
   item:
-    - title: JavaScript
-      logo: logos/javascript.svg
-    - title: HTML
-      logo: logos/html.png
-    - title: CSS
-      logo: logos/css.svg
     - title: Java
       logo: logos/java.svg
-    - title: C++
-      logo: logos/c.svg
+    - title: Springboot
+      logo: Spring_Boot.svg
+    - title: Quarkus
+      logo: quarkus.png
     - title: Bash
       logo: logos/bash.svg
-    - title: Powershell
-      logo: logos/powershell.svg
     - title: MongoDB
       logo: logos/mongodb.svg
     - title: SQL
@@ -75,7 +70,11 @@ experience:
     - logo: https://schul-support-service.de/media/s3logorgb50px.png
       title: Studentische Hilfskraft 
       company: Schul Support Service e.V. 
-      duration:  2021 - Jetzt
+      duration:  2021 - 2023
+    - logo: HEC_RGB_2019.png
+      title: Praktikant und Bachelorand 
+      company: HEC GmbH 
+      duration:  2023 - Jetzt
 
 
 

@@ -4,7 +4,7 @@ coders = []
 date = 2020-06-19T23:00:00Z
 description = "Computergrafik Hausarbeit"
 github = ["https://github.com/PaulDieterich/HS-Osnabrueck-Computergrafik-Hausarbeit"]
-image = "pexels-markus-spiske-95215.jpg"
+image = "https://www.opengl.org/sdk/inc/img/opengl_logo.png"
 title = "Space Game"
 type = "post"
 [[tech]]

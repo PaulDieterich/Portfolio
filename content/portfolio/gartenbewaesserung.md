@@ -2,31 +2,48 @@
 categories = ["homeassistent"]
 coders = []
 date = 2020-06-19T23:00:00Z
-description = " Smarthome"
-github = []
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6e%2FHome_Assistant_Logo.svg%2F1024px-Home_Assistant_Logo.svg.png&f=1&nofb=1"
-title = "Homeassistent"
+description = " IoT - Smarthome"
+github = ["https://github.com/PaulDieterich/IoT_AutomatisierteGartenbewaesserung"]
+image = "garten_3.jpg"
+title = "Automatisierte Gartenbewässerung"
 type = "post"
 [[tech]]
-logo = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6e%2FHome_Assistant_Logo.svg%2F1024px-Home_Assistant_Logo.svg.png&f=1&nofb=1"
-name = "HomeAssistent"
-url = "https://www.home-assistant.io/"
+logo = "https://images.ctfassets.net/o7xu9whrs0u9/7Erq6IEoCaJkBtHMhblLzS/9310518537dffc123d3d9059edace8ed/Grafana-logo-2.png"
+name = "Grafana"
+url = "https://grafana.com/"
 [[tech]]
-logo = "https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"
-name = "Raspbarry_PI"
-url = "https://www.raspberrypi.org/"
-
+logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Influxdb_logo.svg/1024px-Influxdb_logo.svg.png"
+name = "InfluxDB"
+url = "https://www.influxdata.com/"
+[[tech]]
+logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Node-red-icon.png/200px-Node-red-icon.png"
+name = "NodeRED"
+url = "https://nodered.org/"
 
 +++
-## Smarthome 
+## Automatisierte Gartenbewässerung 
 
 ### Idee
-Mir ist es sehr wichtig das Alle meine smarthome Devices auch ohne Internet verbindung, im Locaken Netzt funktionieren.
+
+Wie kann an heißen Tagen felder und kleine gärten bewässert werden? Dafür habe ich im im Modul IoT/Industie 4.0 im 4 Fachsemester der Hochschule Osnabrück eine lösung entwickelt.
+
+
 
 ### Materieal
- + Raspbarry_PI 
- + SD Karte
++ M5StackCore
++ M5Stack Unit-Watering
++ M5Stack LoRaWAN686 Unit
++ Ein LoRaWAN Gateway(TheThingsNetwork Gateway)
+
 ### Software
- + Home-Assistant.io
++ InfluxDB
++ NodeRED
++ Grafana
 
+### Images
+##### Garten
+![Garten Bild 1](/garten_1.jpg  "")
+![Garten Bild 2](/garten_3.jpg  "")
 
+##### Grafana
+![Garten Bild 2](/Grafana_1.png  "")
