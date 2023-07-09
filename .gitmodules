@@ -3,5 +3,5 @@
 	url = https://github.com/samrobbins85/hugo-developer-portfolio
 [submodule "public"]
 	path = public
-	url = git@github.com:PaulDieterich/PaulDieterich.github.io.git
+	url = ssh://git@github.com:PaulDieterich/PaulDieterich.github.io.git
 	branch = main
